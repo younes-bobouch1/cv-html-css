@@ -1,8 +1,19 @@
-    header { 
-    background-color: #7CCCE5 } 
+header { 
+    background-color: #7CCCE5 
+    } 
     
-    div { 
-    background-color: #4897AF } 
+    .gauche { 
+    float:left;
+    width:240px;
+    height:1000px ;
+    background-color: #4897AF;
+    }
+    
+    .droite { 
+    float:left;
+    width:600px;
+    }
     
     html {
-    font-family: monospace; }
+    font-family: monospace; 
+    }
